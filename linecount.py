@@ -1,4 +1,4 @@
-"""Print the number of lines in HACKATHON.md, like `wc -l` (counts newlines)."""
+"""Print the line count of HACKATHON.md, like `wc -l`."""
 import sys
 from pathlib import Path
 
