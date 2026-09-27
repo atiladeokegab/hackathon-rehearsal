@@ -29,5 +29,5 @@ Each script runs with python3 and prints one line.
 
 | Section | Owner | Issues |
 |---|---|---|
-| Scripts | pool, @atiladeokegab | TBD after first sync |
-| Demo | @atiladeokegab | TBD after first sync |
+| Scripts | pool, @atiladeokegab | #6, #7, #9 |
+| Demo | @atiladeokegab | #8 |
