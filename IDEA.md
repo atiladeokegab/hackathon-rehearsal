@@ -29,5 +29,6 @@ Each script runs with python3 and prints one line.
 
 | Section | Owner | Issues |
 |---|---|---|
-| Scripts | pool, @atiladeokegab | #6, #7, #9 |
-| Demo | @atiladeokegab | #8 |
+| Word count | @atiladeokegab (from the pool) | #6 |
+| Greeting | @atiladeokegab (agent:prometheus) | #7 |
+| Demo | pool | #8 |
