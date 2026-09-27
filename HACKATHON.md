@@ -10,8 +10,8 @@ Your agent checks these every session against the UTC column.
 
 | Deadline | Event time | UTC |
 |---|---|---|
-| code freeze | 2026-09-27T16:18+01:00 | 2026-09-27T15:18Z |
-| submit | 2026-09-27T17:18+01:00 | 2026-09-27T16:18Z |
+| code freeze | 2026-09-27T17:35+01:00 | 2026-09-27T16:35Z |
+| submit | 2026-09-27T18:35+01:00 | 2026-09-27T17:35Z |
 
 ## Judging criteria
 
@@ -22,3 +22,4 @@ Your agent checks these every session against the UTC column.
 | Name | GitHub | Role |
 |---|---|---|
 | Atilade | @atiladeokegab | lead |
+| Matrix | @Atilmatrix | teammate |
