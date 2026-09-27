@@ -1,17 +1,17 @@
-# Hackathon kit rehearsal
+# Hackathon kit rehearsal 2
 
-A dry run of the hackathon workflow: three tiny tasks, one lead, real GitHub.
+A second dry run of the teamwork kit on real GitHub.
 
 Official rules: none (rehearsal).
 
 ## Deadlines
 
-All times include their timezone. Your agent checks these every session.
+Your agent checks these every session against the UTC column.
 
-| Deadline | When |
-|---|---|
-| code freeze | 2026-09-27T15:34+01:00 |
-| submit | 2026-09-27T16:34+01:00 |
+| Deadline | Event time | UTC |
+|---|---|---|
+| code freeze | 2026-09-27T16:18+01:00 | 2026-09-27T15:18Z |
+| submit | 2026-09-27T17:18+01:00 | 2026-09-27T16:18Z |
 
 ## Judging criteria
 

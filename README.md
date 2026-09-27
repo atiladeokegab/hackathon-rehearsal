@@ -1,14 +1,23 @@
-# <Project name>
+# Hackathon kit rehearsal
 
-<One paragraph: what we're building and who it's for.>
+Tiny scripts that exercise the hackathon teamwork kit end to end.
+
+## Before you start
+
+- **git** and the **GitHub CLI** 2.40 or newer (`gh --version`), logged in: `gh auth login`.
+- **Accept the invite** to this repo from your email or github.com/notifications. Until
+  you do, your issues can't be assigned to you.
+- **Never commit API keys.** This repo is public: keys go in `.env` (ignored), and are
+  shared with the team outside GitHub.
 
 ## Quick start for teammates
 
-1. `gh repo clone <this repo>`
+1. `gh repo clone atiladeokegab/hackathon-rehearsal`
 2. Open your AI tool (Claude Code, Codex, Cursor, Copilot…) in the folder.
 3. Tell it: *"Read AGENTS.md, then pick up my issue."*
 
-Deadlines, rules and the team are in [HACKATHON.md](HACKATHON.md).
+What we're building and who owns which part: [IDEA.md](IDEA.md). Deadlines, rules and
+the team: [HACKATHON.md](HACKATHON.md).
 
 ## How this workflow works
 
