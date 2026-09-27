@@ -32,3 +32,4 @@ Each script runs with python3 and prints one line.
 | Word count | @atiladeokegab (from the pool) | #6 |
 | Greeting | @atiladeokegab (agent:prometheus) | #7 |
 | Demo | pool | #8 |
+| Line count | @Atilmatrix | #11 |
